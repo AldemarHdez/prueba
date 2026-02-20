@@ -9,3 +9,8 @@ def suma(a, b):
 def resta(a, b):
     return a - b
 
+def resta_por_defecto():
+    return resta(10, 5)
+
+
+
