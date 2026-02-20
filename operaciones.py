@@ -1,5 +1,5 @@
 
-
+import math
 
 
 def suma(a, b):
@@ -8,3 +8,7 @@ def suma(a, b):
 # esto lo escribe mary
 def potencia(a):
     return a**2
+
+
+def radicacion(a):
+    return math.sqrt(a)
